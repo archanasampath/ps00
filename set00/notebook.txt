@@ -1,0 +1,59 @@
+Date  Who    Start  Stop  Interruptions Question TimeOnTask     Comments
+
+8/31  AR     12:45  1:45      10                     60         Creation of the CCIS id had some issues with creating the                                                                  ID but the issue was a  trivial one so managed to send a                                                                   request.
+8/31  AR     17:30  17:35                            5          GIT hub account creation.
+8/31  AR     17:40  17:50                            10         Installation og GIT hub client.
+8/31  AR     18:00  18:10                            10         Creation of Piazza account.
+8/31  AR     18:30  18:35                            5          Installing of Racket on the laptop.         
+
+=============================End of Task: Preparing the laptop===========================================================
+=============================Start of Module00===========================================================================
+
+9/3   AR     12:00  12:10     5             1        10         Reading the introduction of the exercise and understanding                                                                 it thoroughly and analysing for ex1.
+9/3   AR     12:10  12:15                   1        5          Solving the ex1.
+9/3   AR     12:16  12:18                   2        2          Analysis of ex2.
+9/3   AR     12:19  12:25     1             2        6          Solving ex2.
+9/3   AR     12:33  12:43     8+1           3        10         Analysis of ex3.
+9/3   AR     12:44  12:52                   3        7          Solving of ex3.
+===========================Commit to hub 9:49am 10/7=====================================================================
+9/3   AR     12:55  13:06                   4        9          Got stuck a little in understanding the correct solution.
+9/3   AR     13:06  13:10                   4        4          Finally understood the problem and solved it.
+9/3   AR     13:11  13:26                   5        15         Over analysing the question hence leading to a confused                                                                    state.
+9/3   AR     13:27  13:30                   5        3          Finally found the solution, it was very simple.
+9/3   AR     13:31  13:45                   6        14         Analysis of the question.
+9/3   AR     13:46  13:50                   6        4          Re-analysing the solution as the previous one was wrong.
+9/3   AR     13:51  14:00                   6        9          Finally arriving to the solution.
+9/3   AR     14:05  14:10      5            7        5          Analysing and solving ex7.
+=============================Commit to hum 9:51am 10/7====================================================================
+9/3   AR     14:11  14:15                   8        4          Analysing the problem.
+9/3   AR     14:16  14:19                   8        3          Solving the problem.  
+9/3   AR     14:22  14:38      2            9        16         Understanding the lesson and theroy behind the problem.
+9/3   AR     14:39  14:47                   9        8          Arriving at a solution to the problem.
+9/3   AR     14:49  15:21                   10       27         Struggling to come up with the correct logic of the                                                                        solution.
+9/3   AR     15:21  15:28                   10       7          Finally arrived at the correct logical solution.
+
+============================End of Module00==============================================================================                        
+============================committing to git:9:52am 10/7============================================================
+    
+ 
+Total Time On Task Ex1 (minutes)- 15 
+Total Time On Task Ex2 (minutes)- 8                  
+Total Time On Task Ex3 (minutes)- 15
+Total Time On Task Ex4 (minutes)- 13
+Total Time On Task Ex5 (minutes)- 18
+Total Time On Task Ex6 (minutes)- 27
+Total Time On Task Ex7 (minutes)- 5
+Total Time On Task Ex8 (minutes)- 7
+Total Time On Task Ex9 (minutes)- 23
+Total Time On Task Ex10 (minutes)- 34
+
+TOTex1 (hours and tenths)- 0.25
+TOTex2 (hours and tenths)- 0.13
+TOTex3 (hours and tenths)- 0.25
+TOTex4 (hours and tenths)- 0.21
+TOTex5 (hours and tenths)- 0.3
+TOTex6 (hours and tenths)- 0.45
+TOTex7 (hours and tenths)- 0.083
+TOTex8 (hours and tenths)- 0.11
+TOTex9 (hours and tenths)- 0.38
+TOTex10 (hours and tenths)- 0.56
